@@ -1,0 +1,1 @@
+Ahora si dejó subir la carpeta archivos haciendo commit y push ya que esta no se encontraba vacía
